@@ -9,6 +9,6 @@
 # I have experiences with these Programming Languages below ˅
 1. CSS (CSS3)
 2. HTML (HTML5)
-4. JavaScript (React.js Vue.js, js)
+4. JavaScript (React.js, Vue.js, js)
 5. Python
 6. Java
