@@ -4,6 +4,7 @@
 > myself involed in. However, I also love creating edited gaming content and upload them on YouTube.
 
 #add image yticon.png
+![Alt text](yticon.png "YouTube Icon")
 Check me out here: https://bit.ly/3ICmOQu
 
 # I have experiences with these Programming Languages below ˅
