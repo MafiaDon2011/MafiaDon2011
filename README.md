@@ -2,7 +2,10 @@
 
 Everytime I do something, I always try to one up myself the next time. 🙂<br>
 <br>
-My website that contains my CV portfolio.<br>It's https://renlumfao.com/ - Check It Out! 
+My website that contains my CV portfolio.<br>It's https://renlumfao.com/ - Check It Out!
+<br>
+![Alt text](mywebsite-home.jpg "My CV Website - renlumfao.com")
+
 
 > I like creating stylish front-end websites and trying to one up myself everytime with every project I get
 > myself involed in. However, I also love creating edited content and upload them on YouTube.
