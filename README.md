@@ -3,7 +3,7 @@
 Everytime I do something, I always try to one up myself the next time. 🙂<br>
 <br>
 My website that contains my CV portfolio.<br>It's https://renlumfao.com/ - Check It Out!
-<br>
+<br><br>
 ![Alt text](mywebsite-home.jpg "My CV Website - renlumfao.com")
 
 
@@ -28,9 +28,15 @@ Self-taught and talented with Adobe Photoshop in terms of manipulating, transfor
 # My Creative / Design Side
 
 My designs in terms of wireframes, mock-ups and prototypes for desktop / mobile websites for training purposes and showcasing skills.<br>
+
+Renlumfao & Netcom Training Design and Prototype Mockup 🔽<br>
 ![Alt text](canvalogo.png "Canva Icon") Sitemap & Wireframes: https://bit.ly/3dfaryR <br>
 ![Alt text](canvalogo.png "Canva Icon") Desktop Mockup & Prototype: https://bit.ly/3d93X4J & https://bit.ly/3vMfMUM <br>
 ![Alt text](canvalogo.png "Canva Icon") Mobile Mockup & Prototype: https://bit.ly/3QarOiX & https://bit.ly/3BQsF4b <br>
+
+TMF Social Design Mockup 🔽<br>
+![Alt text](canvalogo.png "Canva Icon") Desktop Mockup: https://bit.ly/3K57b7X<br>
+Repositorie Link: https://bit.ly/3W4kXKb
 
 I don't like to talk about my channels, but I'm proud of what I can acomplish on it.
 
@@ -45,6 +51,6 @@ courses. This being “Learn to Speak, Understand and Read with Pimsleur Languag
 # My Programming Experience
 1. CSS (CSS3) | (5+ years)
 2. HTML (HTML5) | (5+ years)
-3. JavaScript (React.js, Vue.js, js) | (5+ years)
+3. JavaScript (React.js, TypeScript.js, Vue.js, js) | (5+ years)
 4. Python | (5+ years)
 5. Java | (3+ years)
