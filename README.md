@@ -12,7 +12,7 @@ My website that contains my CV portfolio.<br>It's https://renlumfao.com/ - Check
 
 I have experience in developing, hosting and designing websites. As well as macros and scripts.<br>
 All My Repositories: https://github.com/MafiaDon2011?tab=repositories <br>
-Python Repositorie: https://github.com/MafiaDon2011/Python-code<br>
+Python Repository: https://github.com/MafiaDon2011/Python-code<br>
 
 Self-taught and talented with Adobe Photoshop in terms of manipulating, transforming and touching up image media and exporting files to the correct format necessary. Experienced with Video Pad Video Editor by NCH Software, a tool I use to create video media that I upload to my personal YouTube channel. Such skills include cutting video and stitching clips together, syncing audio, adding additional audio, adding effects such as text, zoom, transitions, changing the resolution and frame rate, then exporting them to the correct format necessary.
 
