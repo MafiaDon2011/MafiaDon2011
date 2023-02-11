@@ -36,7 +36,7 @@ Renlumfao & Netcom Training Design and Prototype Mockup 🔽<br>
 
 TMF Social Design Mockup 🔽<br>
 ![Alt text](canvalogo.png "Canva Icon") Desktop Mockup: https://bit.ly/3K57b7X<br>
-Repositorie Link: https://bit.ly/3W4kXKb
+Repository Link: https://bit.ly/3W4kXKb
 
 I don't like to talk about my channels, but I'm proud of what I can acomplish on it.
 
