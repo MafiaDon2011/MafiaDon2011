@@ -34,11 +34,20 @@ Renlumfao & Netcom Training Design and Prototype Mockup 🔽<br>
 ![Alt text](canvalogo.png "Canva Icon") Desktop Mockup & Prototype: https://bit.ly/3d93X4J & https://bit.ly/3vMfMUM <br>
 ![Alt text](canvalogo.png "Canva Icon") Mobile Mockup & Prototype: https://bit.ly/3QarOiX & https://bit.ly/3BQsF4b <br>
 
+LiveClipper (previously known as Stream Catcher) Wireframe 🔽<br>
+![Alt text](canvalogo.png "Canva Icon") Wireframes: http://bit.ly/3GJZwth <br>
+Repository Link: [http://bit.ly/3GlQJ0n](http://bit.ly/3GlQJ0n)
+
 TMF Social Design Mockup 🔽<br>
 ![Alt text](canvalogo.png "Canva Icon") Desktop Mockup: https://bit.ly/3K57b7X<br>
-Repository Link: https://bit.ly/3W4kXKb
+Repository Link: [https://bit.ly/3W4kXKb](https://bit.ly/3W4kXKb)
 
-I don't like to talk about my channels, but I'm proud of what I can acomplish on it.
+I made a digital marketing presentation on a company for my Creative Alliance bootcamp. I chose to talk about SEGA. <br>
+![Alt text](yticon.png "YouTube Icon") Check it out here: https://youtu.be/7NKIQ7Q3NvE <br>
+
+----------------------------
+
+I like to dabble in creating videos, check below are my socials 🔽.
 
 ![Alt text](yticon.png "YouTube Icon") Check me out here: https://bit.ly/3P358Ql <br>
 ![Alt text](tiktokicon.png "TikTok Icon") Check me out here: https://bit.ly/3QCUgd8
