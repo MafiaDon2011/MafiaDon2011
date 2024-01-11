@@ -1,10 +1,8 @@
 # 👋 Hello, I am Wajid...
 
 Everytime I do something, I always try to one up myself the next time. 🙂<br>
-<br>
-My website that contains my CV portfolio.<br>It's https://renlumfao.com/ - Check It Out!
 <br><br>
-![Alt text](mywebsite-home.jpg "My CV Website - renlumfao.com")
+![Alt text](mywebsite-home.jpg "website is currently being revamped.")
 
 
 > I like creating stylish front-end websites and trying to one up myself everytime with every project I get
